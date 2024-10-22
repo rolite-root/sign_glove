@@ -49,6 +49,10 @@ The glove is equipped with flex sensors on each finger. As the user bends their 
 - **Expanded Gesture Library**: The current system can recognize basic gestures, but future versions could include more complex gestures to allow for full sentence communication.
 - **Wearable Design**: Improving the glove’s ergonomics to be lighter and more comfortable could make it suitable for daily wear, enhancing accessibility.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
 ## Conclusion
 The Sign Language Glove using Arduino is an excellent example of how technology can be used to solve real-world problems. It is a simple yet effective tool that can dramatically improve the quality of life for individuals with speech impairments. With the ability to translate hand gestures into text and audio, the glove opens up new possibilities for communication. Additionally, the project's future potential in areas like healthcare, assistive technology, and IoT integration makes it a versatile platform for further development.
 
