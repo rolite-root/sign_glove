@@ -52,6 +52,39 @@ The glove is equipped with flex sensors on each finger. As the user bends their 
 ## Conclusion
 The Sign Language Glove using Arduino is an excellent example of how technology can be used to solve real-world problems. It is a simple yet effective tool that can dramatically improve the quality of life for individuals with speech impairments. With the ability to translate hand gestures into text and audio, the glove opens up new possibilities for communication. Additionally, the project's future potential in areas like healthcare, assistive technology, and IoT integration makes it a versatile platform for further development.
 
+## Relevant Literature
+
+### "A Review on Hand Gesture Recognition System"
+**Authors**: N. C. Mithun, M. B. Akhtaruzzaman  
+This paper reviews different hand gesture recognition techniques, with a focus on sensor-based and vision-based systems.
+
+### "Hand Gesture Recognition and Voice Conversion System for Mute People"
+**Authors**: B. Premkumar, B. Pradeep  
+This paper discusses a system that converts hand gestures into voice commands, aimed at assisting mute individuals.
+
+### "IoT-Based Hand Gesture Recognition System for Disabled People Using MEMS"
+**Authors**: P. Sharmila, A. Mohanapriya  
+This research focuses on an IoT-enabled gesture recognition system using MEMS sensors for disabled individuals who are unable to speak.
+
+### "Design and Implementation of Gesture Controlled IoT for Healthcare"
+**Authors**: S. Raj, R. Santhosh  
+This paper outlines a healthcare application of gesture control integrated with IoT, specifically targeting communication barriers in disabled patients.
+
+## Relevant Patents
+
+### "Gesture-based Communication System for Disabled Persons"
+**Patent No.**: US20110171650A1  
+This patent describes a gesture-based communication system that converts hand movements into text or speech, aimed at assisting people with disabilities.
+
+### "Sign Language to Speech Conversion Device"
+**Patent No.**: US20140150238A1  
+This patent covers a system that translates sign language gestures into synthesized speech, utilizing sensors and microcontrollers.
+
+### "Wearable Gesture Recognition Device for Assistive Communication"
+**Patent No.**: US20150076960A1  
+This patent outlines a wearable device that recognizes gestures and translates them into verbal output, providing an assistive communication tool for mute individuals.
+
+
 ## Model Image
 
 Below is an image of the Sign Language Glove prototype:
@@ -66,4 +99,12 @@ Below is an image of the Sign Language Glove prototype:
 
 ![Sign Language Glove Prototype](images/IMG3.jpg)
 
-*Figure 3: The Sign Language Glove with flex sensors and Arduino setup.*
+*Figure 3: TinkerCad wiring diagram.*
+
+![Sign Language Glove Prototype](images/IMG4.jpg)
+
+*Figure 4: The Sign Language Glove with flex sensors and Arduino setup.*
+
+![Sign Language Glove Prototype](images/IMG5.jpg)
+
+*Figure 5: The Sign Language Glove with flex sensors and Arduino setup.*
